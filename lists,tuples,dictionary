@@ -1,0 +1,15 @@
+scores = [1,8,6,9]
+#assigning 5 to the list
+scores.append(5)
+
+print(scores)
+
+
+
+mytuple = ("english","french","spanish")
+print(mytuple[1])
+
+
+
+data = {"user1": "password1", "user2": "password2", "user3": "password3"}
+del data["user1"]
